@@ -1,0 +1,13 @@
+
+>
+java:S1170"!Make this final field static too.(ˆ¡²¿8õ—Î½.
+=
+java:S1170"!Make this final field static too.(¥‚£98®“ µ¼.
+R
+java:S1068"0Remove this unused "rocketWeight" private field.(—Ã£ÿÿÿÿÿ8®“ µ¼.
+C
+java:S1170"!Make this final field static too.(—Ã£ÿÿÿÿÿ8®“ µ¼.
+X
+java:S1068"<Remove this unused "maxRocketWeightWithCargo" private field.(¥‚£98®“ µ¼.
+\
+java:S1161":Add the "@Override" annotation above this method signature(‘ìÅàÿÿÿÿÿ8ƒ’Í½.
